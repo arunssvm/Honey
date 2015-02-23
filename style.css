@@ -1,0 +1,35 @@
+body {
+    background-image: url("http://www.hdbackgroundpoint.com/wp-content/uploads/2014/01/06/u6ru8.jpeg");
+	color:white;     
+}
+
+h1{
+ 	font-size: 30pt;
+}
+
+p{
+	text-align: justify;
+	margin:20px;
+	font-size: 15pt;
+}
+
+img{
+	padding-left:10px;
+	padding-right:10px;
+	float:right;
+    
+}
+.container{
+	padding-left:100px;
+	display: block;
+}
+
+.xm{
+	width:250px;
+	height:200px;
+
+}
+.thankyou{
+	text-align: center;
+	font-size: 100px;
+}
