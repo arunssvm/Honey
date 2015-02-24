@@ -1,10 +1,15 @@
 body {
     background-image: url("http://www.hdbackgroundpoint.com/wp-content/uploads/2014/01/06/u6ru8.jpeg");
-	color:white;     
+        
+}
+
+.content {
+	color:white;
 }
 
 h1{
- 	font-size: 30pt;
+
+    font-size: 30pt;
 }
 
 p{
